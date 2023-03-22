@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>ahmed</finalName>
 		
 		<plugins>
 			<plugin>
