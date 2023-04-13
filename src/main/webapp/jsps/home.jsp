@@ -9,31 +9,31 @@
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technology - Leaders in Software Delivery and DevOps Automation</h1>
-<h2 align="center"> Welcome to Landmark Technology.......We have a demo on DevOps E Degree with Linux and AWS  on Sunday Oct 9, 2022 at 3PM EST for our new batch. 
-	Landmark Technology Tesla web application project2. 
+<h1 align="center">This is Global Information Technology Solutions Group</h1>
+<h2 align="center"> Welcome to Global Technology Solutions Group.......We are an IT firm that specialise in Applications build, deployments and managements.
+	This is our Maven-Web-App.... Haoua is taking a devOps interview tomorrow...Best of luck! 
 	</h2>
-	<h2 align="center" >DevOps is good. JESUS IS LORD. I AM BLESSED. Production</h2>
+	<h2 align="center" >Domkreo, A is the best DevOps engineer</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/logo.png" alt="" width="250">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Canada
-		+1 437 215 2483,
+		Global Information Technlogy Solutions Group, 
+		Glen Burnie, MD
+		+1 301 642 3816,
 		mylandmarktech@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:AHMEDDOMKREO@GMAIL.COM">Mail to GITSG</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center>Global Information Technology Solution Group  - Consultant, Development Center.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://smartuniversaldevops.com">Landmark Technologies</a> </small></p>
 
 </body>
 </html>
