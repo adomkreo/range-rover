@@ -9,10 +9,14 @@
 </head>
 </head>
 <body>
-<h1 align="center">This is Global Information Technology Solutions Group</h1>
-<h2 align="center">Thank you for visiting Global Technology Solutions Group. We are an IT firm with expertise in building, deploying, and managing applications. We are proud to showcase our Maven-Web-App.
+<h1 align="center">Global Information Technology Solutions Group/Range-Rover</h1>
+<h2 align="center">Introducing Ahmed, the visionary owner of Global Information Technology Solutions Group. Ahmed is a man who knows what he wants and how to get it. He has a passion for innovation and a drive to succeed. And when it comes to his choice of vehicle, he only trusts the best - the Range Rover.
 
-By the way, one of our team members, Haoua, will be conducting a DevOps interview tomorrow. We wish all the best to the candidates who will be participating!
+Ahmed's love for the Range Rover is no secret. He appreciates the vehicle's sleek design, powerful engine, and cutting-edge technology. Whether he's cruising down the highway or navigating through rough terrain, the Range Rover delivers an unparalleled driving experience.
+
+If you're a like-minded individual who demands the best, then the Range Rover is the vehicle for you. With its luxurious interior, unmatched performance, and unmistakable style, the Range Rover is the perfect choice for those who refuse to settle for anything less than perfection.
+
+Join Ahmed and become part of the Range Rover family today. Experience the ultimate in luxury and performance, and see for yourself why Ahmed and so many others love this iconic vehicle.
 	</h2>
 	<h2 align="center" >Domkreo, A is the best DevOps engineer</h2>
 <hr>
